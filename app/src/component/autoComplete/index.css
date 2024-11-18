@@ -1,0 +1,9 @@
+.container{
+   height: 25vh;
+   width: min(250px,35vw);
+   margin: 24px auto;
+
+   p{
+    color: black;
+   }
+}
